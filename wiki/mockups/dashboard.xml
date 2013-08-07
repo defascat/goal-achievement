@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="952" measuredH="622" mockupW="857" mockupH="597">
+  <controls>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="95" y="25" w="857" h="597" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Goal%20Achieving%0Ahttp%3A//www.goal-achieving.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="119" y="121" w="809" h="457" measuredW="200" measuredH="182" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Dashboard%0AGoals%0ADreams%0ASettings</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::DataGrid" x="206" y="155" w="692" h="212" measuredW="532" measuredH="81" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Goal%20%5Ev%2C%20Progress%2C%20Category%20%5Ev%2C%20Type%20%5Ev%2C%20Due%20Date%20%5Ev%2C%20Status%0AWorkouts%204%20times%20a%20week%2C%2050%25%2C%20Health%2C%20LongTerm%2C%20August%201%202018%0A%3E%20Week%2023%2C%2025%25%2C%20%2C%20%2C%20August%208%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::DataGrid" x="206" y="402" w="705" h="137" measuredW="447" measuredH="51" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%2C%20Description%0AJump%20with%20the%20parachute%2C%20to%20be%20done%20when%20the%20daughters%20are%20at%20least%2020</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::List" x="473" y="218" w="83" h="116" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>0%25%0A25%25%0A50%25%0A75%25%0A100%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Icon" x="853" y="178" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SadFaceIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Icon" x="853" y="208" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="209" y="130" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Goals</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="824" y="127" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20goal</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="895" y="156" w="-1" h="211" measuredW="16" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="206" y="377" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dreams</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="824" y="374" w="-1" h="-1" measuredW="86" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20dream</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
