@@ -7,3 +7,18 @@ h1 {
 	color: #D33381;
 	border-bottom: black 3px dotted;
 }
+
+.full-width {
+	width: 100%;
+}
+
+.header {
+	margin: 20px 0px;
+	font-size: 20px;
+	font-weight: bolder;
+	font-style: italic;	
+}
+
+.center {
+	text-align: center;
+}
