@@ -1,6 +1,6 @@
 function startInitFlow() {
 	Ext.Ajax.request({
-	   url: '/actions/is-application-initialized.groovy',
+	   url: '/actions/auth/isapplicationinitialized.groovy',
 	   success: function(response, opts) {
 	      var obj = Ext.decode(response.responseText);
 	      console.dir(obj);
