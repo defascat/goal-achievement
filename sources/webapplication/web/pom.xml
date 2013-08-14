@@ -21,29 +21,34 @@
 			<version>${gae.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>${groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>data-facade</artifactId>
-			<version>${version}</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>${groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>data</artifactId>
-			<version>${version}</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>${groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>service-facade</artifactId>
-			<version>${version}</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>${groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>service</artifactId>
-			<version>${version}</version>
+			<version>${project.version}</version>
 		</dependency>
+		<dependency>
+		    <groupId>org.gaelyk</groupId>
+		    <artifactId>gaelyk-guice-plugin</artifactId>
+		    <version>0.1</version>
+   		</dependency>
 	</dependencies>
 
 	<build>
-		<finalName>goalachievement-${version}</finalName>
+		<finalName>goalachievement-${project.version}</finalName>
 		<plugins>
 			<plugin>
 				<groupId>com.google.appengine</groupId>
